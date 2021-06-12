@@ -1,4 +1,4 @@
-# naive-bayes
+# naive-and-full-bayes
 * Implemented Naive Bayes classification model
 * Used the [AT&T Database of faces](https://www.kaggle.com/kasikrit/att-database-of-faces) for testing the model
 * Confusion matrix is shown and accuracy are logged
